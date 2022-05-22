@@ -5,6 +5,3 @@ Here is where I list the relevant projects that I have worked on as a data analy
 Dived into the cyclistic data and found insight, presented my findings using a story and profided recommendations to cyclistic Bikeshare.
 
 
-
-
-2022 ILUNGA DJANI PORTFOLIO [^1]
